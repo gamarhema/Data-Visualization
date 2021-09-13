@@ -1,2 +1,2 @@
-# Tableau-Self-Learning
+# Data-Visualization-with-Tableau-Excel
 ## This is one of my research of earthquakes B-Value. This study is aimed to learn and studying the relation between earthquake magnitude & frequency. High B-Value tend to have low stress and energy release. This inferences shown by high frequence of earthquakes in particular area, represented by 5 volcanos in this study, which refer to many energy release in low magnitude. In bottom line, High value shows low chance of big earthquakes happen in certain area.
